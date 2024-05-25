@@ -1,0 +1,4 @@
+language = "bash"
+run = "powershell.exe -File D:\Users\jfold.2\Dropbox\GitHub\GIT20240007\start_script.ps1"
+# Consider other configurations based on different environments.
+# For more information on configuring Replit files, visit: https://docs.replit.com
